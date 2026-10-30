@@ -62,6 +62,7 @@ def empresa_con_mas_empleados(empresas):
     """Devuelve el objeto Empresa que tiene mas empleados."""
     # TODO: recorre la lista y devuelve la empresa con el mayor num_empleados.
     #       Si la lista esta vacia, devuelve None.
+    #       Si la lista esta vacía, devuelve None.
     return None
 
 
